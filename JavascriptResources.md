@@ -14,6 +14,7 @@ Filtering:
 * http://setosa.io/ev/image-kernels/
 
 # NLP
+http://textanalysisonline.com/
 https://demos.explosion.ai/displacy/
 https://demos.explosion.ai/displacy-ent/
 http://nlp-compromise.github.io/website/
